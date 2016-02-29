@@ -25,11 +25,12 @@ from __future__ import print_function, division
 # Add your library functions here.
 
 
-def ParseSubinterface():
+def ParseSubinterface(raw_input):
     """
     Document your function here.
     """
     print("parsing subinterface function")
+    print(raw_input)
     pass
 
 __all__ = [

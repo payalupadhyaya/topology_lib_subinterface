@@ -1,0 +1,11 @@
+{
+    "library_name": "topology_lib_subinterface",
+    "author": "Hewlett Packard Enterprise Development LP",
+    "email": "payal.upadhyaya@hpe.com",
+    "repo_url": "https://github.com/payalupadhyaya/topology_lib_subinterface",
+    "doc_url": "https://github.com/payalupadhyaya/topology_lib_subinterface/tree/master/doc",
+    "project_name": "subinterface Communication Library for Topology",
+    "short_description": "Library for subinterfaces on openswitch",
+    "year": "2016",
+    "version": "0.1.0"
+}
