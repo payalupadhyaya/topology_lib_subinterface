@@ -73,7 +73,8 @@ setup(
         'Library for subinterfaces on openswitch'
     ),
     long_description=read('README.rst'),
-    url='https://github.com/payalupadhyaya/topology_lib_subinterface/tree/master/doc',
+    url='https://github.com/payalupadhyaya/topology_lib_subinterface\
+         /tree/master/doc',
     keywords='topology_lib_subinterface',
 
     classifiers=[

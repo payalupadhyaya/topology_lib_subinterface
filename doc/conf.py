@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 #
-# subinterface Communication Library for Topology documentation build configuration file.
+# subinterface Communication Library for Topology documentation
+# build configuration file.
 #
 # This file is execfile()d with the current directory set to its
 # containing dir.
