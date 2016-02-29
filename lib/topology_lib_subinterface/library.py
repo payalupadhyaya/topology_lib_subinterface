@@ -25,12 +25,13 @@ from __future__ import print_function, division
 # Add your library functions here.
 
 
-def your_function_here():
+def parseSubinterface():
     """
     Document your function here.
     """
+    print("parsing subinterface function")
     pass
 
 __all__ = [
-    'your_function_here'
+    'parseSubinterface'
 ]
